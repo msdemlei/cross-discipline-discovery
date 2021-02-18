@@ -1,0 +1,35 @@
+pageSetup: 
+  margin-left: 2cm
+  margin-right: 7cm
+
+styles:
+  base:
+    fontSize: 12pt
+    leading: 17
+    hyphenation: true
+  bodytext:
+    alignment: TA_LEFT
+    spaceAfter: 4
+    leading: 15
+ 
+  title:
+    fontName: Lato-Bold
+    fontSize: 170%
+    backColor: #66666
+    textColor: #ffffff
+    borderPadding: 15
+    spaceAfter: 25
+  
+  heading1:
+    fontName: Latin Modern Sans Bold
+    spaceBefore: 30
+    fontSize: 150%
+
+  heading2:
+    fontName: Latin Modern Sans Bold
+    fontSize: 120%
+  
+  heading3:
+    fontName: Latin Modern Sans Italic
+    fontSize: 110%
+
