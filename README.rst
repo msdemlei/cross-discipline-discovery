@@ -42,7 +42,7 @@ They discover a set of services giving precise, time-registered
 abundances in ocean drill cores. Fortunately, all follow an easily
 discoverable standard, and so they find that about 1.5 million years ago
 the Earth received a major intake of r-process elements, pointing
-towards a supernova that exploded reasonable close to Earth in that
+towards a supernova that exploded reasonably close to Earth in that
 timeframe.
 
 Going on, they might want to discover a paleontology database to see if
