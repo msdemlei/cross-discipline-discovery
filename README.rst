@@ -73,3 +73,20 @@ simulations are consistent with the constraints of, say,
 paleoclimatology.
 
 .. _using milankovitch cycles: https://blogs.egu.eu/geolog/2020/11/20/using-milankovitch-cycles-to-create-high-resolution-astrochronologies/
+
+
+The Higher Atmosphere in the Early Industrial Age
+-------------------------------------------------
+
+(Based on a true story) Environmental scientists are interested in the
+status of the Ozone layer at the beginning of the 20th century.  They
+realise that the telluric lines in spectra of astronomical objects
+may let them measure Ozone concentration in the higher atmosphere, as
+long as sufficiently strong Ozone lines are in the spectral overage of
+the observations.  They now discover metadata collections of
+astronomical plate archives.  Ideally, these will be available through
+standard protocols offering constraints by coverage (so the
+environmental scientists can filter out the large number of spectra that
+will probably not overlap the absorption spectrum of ozone) and time,
+perhaps even on object types (e.g., to select target objects with strong
+UV emission).
