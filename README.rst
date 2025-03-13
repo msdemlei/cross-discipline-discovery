@@ -90,3 +90,13 @@ environmental scientists can filter out the large number of spectra that
 will probably not overlap the absorption spectrum of ozone) and time,
 perhaps even on object types (e.g., to select target objects with strong
 UV emission).
+
+
+Health and Climate
+------------------
+
+A public health researcher has morbidity data resolved in space in time.
+They now want to investigate relationships between morbidity and weather
+(i.e., short-term) or climate (i.e., long-term) and needs respective
+data also resolved in space and time, ideally on the grids they already
+have.
